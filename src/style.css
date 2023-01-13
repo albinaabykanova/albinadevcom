@@ -62,7 +62,7 @@ html {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: rgba(178, 121, 216, 0.959);
+    background: rgba(216, 121, 148, 0.896);
     border-radius: 12px;
 }
 
