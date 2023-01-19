@@ -5,7 +5,7 @@ const Blogs= () =>{
         <div>
             <NavBar/>
 
-            <h1>Albina</h1>
+         
            
         </div>
     )
