@@ -1,5 +1,7 @@
 import NavBar from "../Navbar"
 
+
+
 const Blogs= () =>{
     return(
         <div>
