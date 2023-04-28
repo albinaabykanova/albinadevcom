@@ -36,7 +36,7 @@ window.addEventListener("scroll", scrollHandler);
     >
       <Container >
         <Navbar.Brand href="/" className="d-flex">
-            <img src={logo} className="img-fluid-logo" alt="brand" 
+            <img src={"https://cdn3d.iconscout.com/3d/premium/thumb/woman-with-hijab-6530590-5823035.png?f=webp"} className="img-fluid-logo" alt="brand" 
               width="60"
               height="60"
             />
@@ -89,15 +89,7 @@ window.addEventListener("scroll", scrollHandler);
                </Link>
             </Nav.Item> 
 
-            <Nav.Item>
-             <Link
-               to="/blog"
-               onClick={() => updateExpanded(false)}
-              >
-               <ImBlog style={{ marginBottom: "2px" }} /> Blogs
-              </Link>
-            </Nav.Item>
-
+           
          
           <Nav.Item className="fork-btn">
             <Button

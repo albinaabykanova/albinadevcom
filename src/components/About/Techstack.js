@@ -28,9 +28,7 @@ function Techstack() {
             <Col xs={4} md={2} className="tech-icons">
                 <DiSass />
             </Col>
-            <Col xs={4} md={2} className="tech-icons">
-                <DiNodejs />
-            </Col>
+         
             <Col xs={4} md={2} className="tech-icons">
                 <DiHtml5 />
             </Col>
@@ -46,9 +44,7 @@ function Techstack() {
             <Col xs={4} md={2} className="tech-icons">
                 <SiTailwindcss />
             </Col>
-            <Col xs={4} md={2} className="tech-icons">
-                <SiAngularjs />
-            </Col>
+         
         </Row>
     )
 }
